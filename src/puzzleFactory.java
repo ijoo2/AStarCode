@@ -7,7 +7,7 @@ import aima.core.search.framework.ActionsFunction;
 import aima.core.search.framework.ResultFunction;
 
 /*
-*  Inha Joo
+*  Inha Joo & Jed Siripun
 */
 public class puzzleFactory {
 	private static ActionsFunction _actionsFunction = null;
