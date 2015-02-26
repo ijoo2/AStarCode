@@ -6,9 +6,9 @@ import aima.core.agent.Action;
 import aima.core.search.framework.ActionsFunction;
 import aima.core.search.framework.ResultFunction;
 
-/**
- * Jed Siripun - jsirip2
- */
+/*
+*  Inha Joo
+*/
 public class puzzleFactory {
 	private static ActionsFunction _actionsFunction = null;
 	private static ResultFunction _resultFunction = null;
